@@ -58,6 +58,8 @@ extension ViewController: UIViewControllerTransitioningDelegate {
     }
     
     func animationControllerForDismissedController(dismissed: UIViewController) -> UIViewControllerAnimatedTransitioning? {
-        return nil
+        transition.presenting = false
+        
+        return transition
     }
 }
