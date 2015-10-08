@@ -1,7 +1,7 @@
 SL-BeginngerCook
 ================
 
-Self-learn adaptive layout
+Self-learn custom transition
 
 ### Tutorial
 http://www.raywenderlich.com/113845/ios-animation-tutorial-custom-view-controller-presentation-transitions
